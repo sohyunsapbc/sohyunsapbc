@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="./image/desk.gif" width="50%" alt="An iMac on a desk showing a Windows desktop with SAP Logon" />
+  <img src="./image/desk.gif" width="75%" alt="An iMac on a desk showing a Windows desktop with SAP Logon" />
 </p>
 
 ## 🌿 About Me
